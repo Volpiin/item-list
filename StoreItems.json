@@ -1,18 +1,6 @@
 {
 	"items" : [
 	{
-		"abr": "abyssiniancat",
-		"price": 333,
-		"category": "Animal",
-		"defname": "AEXP_CatAbyssinian"
-	},
-	{
-		"abr": "adrenalineribreplacement",
-		"price": 917,
-		"category": "Bionic",
-		"defname": "AdrenalineRib"
-	},
-	{
 		"abr": "advancedbionicarm",
 		"price": 3450,
 		"category": "Ultratech",
@@ -20,5 +8,5 @@
 	}
 
 	],
-	"total": 4
+	"total": 1
 }
